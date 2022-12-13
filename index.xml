@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Poptropica Flashpoint Curation</title><link>https://danr789.github.io/pop/</link><description>Recent content on Poptropica Flashpoint Curation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 12 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://danr789.github.io/pop/index.xml" rel="self" type="application/rss+xml"/><item><title>Credits</title><link>https://danr789.github.io/pop/credits/</link><pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate><guid>https://danr789.github.io/pop/credits/</guid><description>&lt;h3 id="special-thanks-to-the-following-for-making-this-project-possible">Special Thanks to the Following for making this Project Possible:&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://poptropica.com" target="_blank" rel="noopener"
+>Poptropica&lt;/a> | For making this Game&lt;/li>
+&lt;li>Light &lt;a class="link" href="https://github.com/hauntii" target="_blank" rel="noopener"
+>(hauntii)&lt;/a>&lt;/li>
+&lt;li>Prof.Robin &lt;a class="link" href="https://github.com/danr789" target="_blank" rel="noopener"
+>(danr789)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;em>Poptropica Realms&amp;rsquo; Svadilfari used in this Website Belongs to Poptropica and Sandbox Networks&lt;/em>&lt;/p>
+&lt;p>&lt;em>For Takedowns, please go to the &lt;a class="link" href="https://danr789.github.io/pop/takedowns" target="_blank" rel="noopener"
+>Takedowns Page.&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Known Bugs/Issues</title><link>https://danr789.github.io/pop/bugs/</link><pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate><guid>https://danr789.github.io/pop/bugs/</guid><description>&lt;blockquote>
+&lt;p>All Known Bugs and/or Limitations of this Curation have been listed here&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>Character Importer does &lt;strong>not&lt;/strong> work&lt;/li>
+&lt;li>The Store and Daily Pop Do not work &lt;em>yet&lt;/em>&lt;/li>
+&lt;li>Poptropica Realms has been disabled as the curation does not have a backend.&lt;/li>
+&lt;li>Common Rooms cannot be used to play multiplayer, as the curation has no backend.&lt;/li>
+&lt;/ul></description></item><item><title>Poptropica Flashpoint Curation</title><link>https://danr789.github.io/pop/intro/install/</link><pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate><guid>https://danr789.github.io/pop/intro/install/</guid><description>&lt;blockquote>
+&lt;p>A Flashpoint curation containing both AS2 and AS3 islands&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="installation">Installation&lt;/h3>
+&lt;ul>
+&lt;li>Firstly, Install &lt;a class="link" href="https://www.7-zip.org/download.html" target="_blank" rel="noopener"
+>7Zip&lt;/a>&lt;/li>
+&lt;li>Then Download and Unzip &lt;a class="link" href="https://bluemaxima.org/flashpoint/Flashpoint%20Core%2011.7z" target="_blank" rel="noopener"
+>Flashpoint Core&lt;/a> (You&amp;rsquo;re free to use Flashpoint Core 12, not tested though)&lt;/li>
+&lt;li>Download the &lt;a class="link" href="https://mega.nz/file/mcog0SIZ#vdVgjZtrhL0uE0zb-0_9z26E6JHjY2GEw3EfbvOe9A4" target="_blank" rel="noopener"
+>AS3 Flashpoint Curation&lt;/a>&lt;/li>
+&lt;li>Open up Flashpoint Core and go to the &lt;strong>Curate&lt;/strong> tab and press &lt;strong>Load Archive&lt;/strong>&lt;/li>
+&lt;li>Wait for the Curation to Load&lt;/li>
+&lt;li>Scroll Down and Press &lt;strong>Run&lt;/strong> to start the Game!&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>NOTE: This is still being continously tested, so feel free to drop by for support or any bugs you encounter along the way on &lt;a class="link" href="https://discord.gg/Bk8DECn" target="_blank" rel="noopener"
+>Poptropica Fan Club Discord Server&lt;/a>&lt;/p>
+&lt;/blockquote></description></item><item><title>Takedowns</title><link>https://danr789.github.io/pop/takedowns/</link><pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate><guid>https://danr789.github.io/pop/takedowns/</guid><description>&lt;p>Feel Free to contact any of the developers via the following means:&lt;/p>
+&lt;p>&lt;strong>Prof.Robin&lt;/strong> : He can be contacted via Discord on &lt;em>SirPerson#7730&lt;/em> or &lt;a class="link" href="mailto://producer1234@outlook.com" >Email&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Light&lt;/strong> : He can be contacted via Discord on &lt;em>light#9585&lt;/em>&lt;/p>
+&lt;p>&lt;em>In using both of the methods above, you&amp;rsquo;ll be asked to verify by emailing them with an official
+(username)@poptropica.com email, within 48 Hours this site will be taken down&lt;/em>&lt;/p></description></item><item><title>Troubleshooting</title><link>https://danr789.github.io/pop/help/</link><pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate><guid>https://danr789.github.io/pop/help/</guid><description>&lt;blockquote>
+&lt;p>Refer to this Page incase you get an error or Bug&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="softlocks-while-loading">Softlocks while Loading&lt;/h3>
+&lt;p>This can easily be fixed by opening the developer menu by pressing the tilde key (~) and
+running the following command:&lt;/p>
+&lt;pre tabindex="0">&lt;code>loadScene game.scenes.hub.tutorial2.Tutorial2
+&lt;/code>&lt;/pre>&lt;p>This Will Teleport you to the Home Island, from where you can go back to the Map&lt;/p>
+&lt;h3 id="blank-white-screen-while-trying-to-run-the-game">Blank White Screen while trying to Run The Game&lt;/h3>
+&lt;p>For this, you&amp;rsquo;ll need to download &lt;a class="link" href="https://danr789.github.io/pop/base.php" target="_blank" rel="noopener"
+>base.php&lt;/a>
+(right click and press &amp;ldquo;Save as..&amp;rdquo;) then open flashpoint, press &lt;strong>Open Folder&lt;/strong> on the AS3
+Curation and go into the &lt;code>content&lt;/code> folder and then into the &lt;code>www.poptropica.com&lt;/code> folder, delete
+the base.php file and replace it with this one.&lt;/p></description></item></channel></rss>
