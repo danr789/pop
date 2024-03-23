@@ -1,3 +1,4 @@
 - [Home](README)
 - [Troubleshooting](help)
 - [Credits](credits)
+- [Bugs](bugs)

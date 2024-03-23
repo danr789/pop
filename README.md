@@ -1,12 +1,14 @@
 # Poptropica AS3 Flashpoint Curation
-> Flashpoint Curation of the AS3 version Of Poptropica!
+> Flashpoint Curation of Poptropica!
 
 
 ### Installation
-- Firstly, Install [7Zip](https://www.7-zip.org/download.html)
-- Then Download and Unzip [Flashpoint Core](https://bluemaxima.org/flashpoint/Flashpoint%20Core%2011.7z)
-- Download the [AS3 Flashpoint Curation](https://mega.nz/file/nZhwjASC#wi46kmP8ZmASKGdZls6NSM-DfrRVdxduZ62MTps3DZY)
-- Open up Flashpoint Core and go to the **Curate** tab and press **Load Archive**
-- Wait for the Curation to Load
-- Scroll Down and Press **Run** to start the Game!
 
+- Download the latest version of [Flashpoint Infinity](https://flashpointarchive.org/downloads)
+- Start Flashpoint and head over to "Games" tab
+- Search ``Poptropica`` in the search box
+- Download the curation
+- Once done, press **Run** to start the game!
+- Have Fun!
+
+> NOTE: Feel free to drop by for support or any bugs you encounter along the way in the [Poptropica Club Discord Server](https://discord.gg/Bk8DECn)
